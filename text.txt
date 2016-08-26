@@ -1,1 +1,69 @@
-git测试
+本次练习的地址
+https://github.com/yuler/html5.git
+
+
+
+混合开发：
+atom是h5开发的
+h5可以做本地存储
+
+运行Shadowsocks.exe
+配置连接哪个服务器：
+服务器ip：tokyo.hapyy-yu.com
+服务器端口：8388
+密码：yule123qaz
+
+在chorme中安装第二个分文件（插件），配置插件
+
+注：可以自己创建一个服务器。
+
+
+sublime text3
+ctr+shift+p打开命令行
+访问https://packagecontrol.io/installation
+复制the appropriate Python code
+
+安装插件
+输入install安装install packge
+输入emmet安装emmet
+删除remove
+
+快捷键：
+！
+#div
+table>thead>tr>th*6>td*5		
+table>(thead>tr>th*6>td*5)		
+p+p
+ul>ui*5
+p[data=]
+ul>li{$}*5	$为索引
+p{你好}
+
+下载git从https://git-scm.com/
+建议用命令行
+git使用：
+进入工作空目录执行git init初始化以创建git仓库
+git status
+添加一个文件 git add
+git config --global user.email 'hzbxt@126.com'
+git config --git config --global user.name 'hzbxt'
+git commit -m 'test'
+将内容推到github上
+http://github.com/
+
+下载学习过程代码
+进入一个空目录，D:\projects\temp\html5
+git clone 一个项目地址git clone https://github.com/yuler/html5.git
+即可
+git clone https://github.com/jquery/jquery.git
+另一个仓库：https://about.gitlab.com/gitlab-com/
+
+
+安装node.js
+https://nodejs.org/en/ 下载4.5
+
+Vue插件
+
+更新代码：
+进到D:\projects\temp\html5 执行git pull origin master
+
